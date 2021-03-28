@@ -10,8 +10,8 @@
 
 ## Summary Statistics on Suspension Coils
 
-![Grouped Data](resources/grouped_data)
-![Summary Data](resources/summary_data)
+![Grouped Data](https://github.com/mtalbot1516/MechaCar_Statistical_Analysis/blob/main/Resources/grouped_data.png)
+![Summary Data](https://github.com/mtalbot1516/MechaCar_Statistical_Analysis/blob/main/Resources/summary_data.png)
 
 ### The overall variance of all the lots indicates that the manufactoring data meets the design specification, having a variance of 62. However, when you drill down to the lot specific data, it is clear that variance in lot 3 is heavily increasing teh summary variance. Lo 3 has a variance of 170 PSI, meaning it does not pass the manufatcoring specifications
 
